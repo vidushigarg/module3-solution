@@ -1,0 +1,56 @@
+body{
+	font-size: 16px;
+	color: #ff427f;
+	background-color: #2c003e;
+	font-family: Bradley Hand, cursive;
+}
+
+#header-nav{
+	background-color: #d8345f;
+	border-radius: 0;
+	border: 0;
+	
+}
+.navbar-brand{
+	padding: 25px;
+}
+
+.navbar-brand h1{
+	font-size: 1.5em;
+	color: #2c003e;
+	text-transform: uppercase;
+	font-weight: bold;
+	margin-top: 0;
+	margin-bottom: 0;
+	line-height: .75;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus{
+	text-decoration: none;
+}
+ 
+#nav-list{
+	margin-top: 10px
+}
+#nav-list a{
+	color:#2c003e;
+	text-align: center; 
+}
+#nav-list a:hover{
+	background-color:#900c3f;
+
+}
+
+.navbar-header button.navbar-toggle,  .icon-bar{
+	border: 1px solid #2c003e;
+
+}
+
+#main-content h1,h2{
+	text-align: center;
+}
+
+#content{
+	background-color: #00a1ab;
+	color: #2c003e
+}
